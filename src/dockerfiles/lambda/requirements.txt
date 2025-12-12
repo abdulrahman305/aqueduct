@@ -8,3 +8,4 @@ SQLAlchemy==1.4.30
 typing_extensions==4.3.0
 aqueduct-ml==0.3.6
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
